@@ -5,8 +5,8 @@
 ProBatch [1] is an R collection of tools for diagnostics and corrections of batch effects in proteomics.
 The package is availlable from [BioConductor](https://www.bioconductor.org/packages/release/bioc/html/proBatch.html) and [GitHub](https://github.com/symbioticMe/proBatch).
 
-This repository provides a preconfigured installation of ProBatch, MSstats[2], and aLFQ[3] on top of a rocker/r-base base images.
-It can be used to facilitate reproducing the analysis presented in:
+This repository provides a preconfigured installation of ProBatch, MSstats[2], and aLFQ[3] on top of a rocker/r-base base image.
+It can be used to facilitate reproducing the analyses presented in:
 
 _ADD_MANUSCRIPT_REFERENCE_
 
