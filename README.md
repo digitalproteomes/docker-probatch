@@ -12,7 +12,7 @@ _ADD_MANUSCRIPT_REFERENCE_
 
 ## Images
 
-Prebuilt images for this Dockerfile can be downloaded from [dockerhub](https://hub.docker.com/repository/docker/digitalproteomes/probatch/general)
+Prebuilt images for this Dockerfile can be downloaded from [dockerhub](https://hub.docker.com/r/digitalproteomes/probatch)
 ```
 docker pull digitalproteomes/probatch
 ```
